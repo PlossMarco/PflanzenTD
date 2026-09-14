@@ -27,3 +27,4 @@ mono_crash.*
 *.aab
 *.unitypackage
 crashlytics-build.properties
+*.slnx
